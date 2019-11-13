@@ -1,1 +1,3 @@
 # Python-Design-Project
+<h1>The Inner Flower</h1>
+<img src="https://github.com/rubyboon/Python-Design-Project/blob/master/The%20Inner%20Flower.PNG">
